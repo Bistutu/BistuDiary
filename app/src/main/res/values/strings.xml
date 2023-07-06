@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Bistu Diary</string>
+    <string name="empty_content">写点什么东西吧~</string>
+    <string name="login_title">
+        <b>Bistu Diary</b>
+    </string>
+    <string name="username">
+        <b>账号</b>
+    </string>
+    <string name="password">
+        <b>密码</b>
+    </string>
+    <string name="save">
+        <b>保存</b>
+    </string>
+
+
+</resources>
